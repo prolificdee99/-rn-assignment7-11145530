@@ -80,14 +80,10 @@ As I continue to develop and refine my skills, I look forward to expanding this 
 
 ## Here is what my application looks like:
 
-![alt text](/myShoppingApp2.0/2.0/src/assets/)
-![alt text](/myShoppingApp2.0/2.0/src/assets/)
-![alt text](/myShoppingApp2.0/2.0/src/assets/)
-![alt text](/myShoppingApp2.0/2.0/src/assets/)
-![alt text](/myShoppingApp2.0/2.0/src/assets/)
-![alt text](/myShoppingApp2.0/2.0/src/assets/)
-![alt text](/myShoppingApp2.0/2.0/src/assets/)
-![alt text](/myShoppingApp2.0/2.0/src/assets/)
-![alt text](/myShoppingApp2.0/2.0/src/assets/)
-![alt text](/myShoppingApp2.0/2.0/src/assets/)
-![alt text](/myShoppingApp2.0/2.0/src/assets/)
+![alt text](/myShoppingApp2.0/src/assets/image1.jpg)
+![alt text](/myShoppingApp2.0/src/assets/image2.jpg)
+![alt text](/myShoppingApp2.0/src/assets/image3.jpg)
+![alt text](/myShoppingApp2.0/src/assets/image4.jpg)
+![alt text](/myShoppingApp2.0/src/assets/image5.jpg)
+![alt text](/myShoppingApp2.0/src/assets/image6.jpg)
+![alt text](/myShoppingApp2.0/src/assets/image7.jpg)
